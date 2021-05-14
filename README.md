@@ -3,7 +3,7 @@
 
 - 🎓 Cursando Ciência da computação
 - 🔭 Atualmente não estou trabalhando em nada
-- 🌱 Atualmente, estou aprendendo Java☕
+- 🌱 Começando no mundo do Java☕
 - 📫 Como entrar em contato comigo: [E-mail](llipeandrade34@gmail.com)
 
 
