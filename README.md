@@ -1,13 +1,6 @@
 # Olá 👋
 ## Me chamo Felipe
 
-
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe03&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
 - 🎓 Cursando Ciência da computação
 - 🔭 Atualmente não estou trabalhando 
 - 🌱 Começando no mundo do Java ![java](https://user-images.githubusercontent.com/81371774/119203561-af481000-ba69-11eb-8a9c-8fe2dd5a3237.png)
