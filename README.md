@@ -6,9 +6,8 @@
 <div>
   
 
-- 🎓 Cursando Ciência da computação
-- 🔭 Atualmente não estou trabalhando 
-- 🌱 Começando no mundo do Java ![java](https://user-images.githubusercontent.com/81371774/119203561-af481000-ba69-11eb-8a9c-8fe2dd5a3237.png)
+### 🎓 Cursando Ciência da computação
+### 🌱 Começando no mundo do Java ![java](https://user-images.githubusercontent.com/81371774/119203561-af481000-ba69-11eb-8a9c-8fe2dd5a3237.png)
   
   <div> 
   <a href="https://www.linkedin.com/in/luis-felipe-contrate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
