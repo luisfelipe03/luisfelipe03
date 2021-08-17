@@ -1,7 +1,9 @@
-## Olá 👋, me chamo Felipe !
+# Olá 👋, me chamo Felipe !
 
+## Sobre mim
 ### 🎓 Cursando Ciência da computação
-### 💻 Programador Back-End ![java](https://user-images.githubusercontent.com/81371774/119203561-af481000-ba69-11eb-8a9c-8fe2dd5a3237.png)
+### 💻 Programador Back-End 
+### 📚 Estudando Java/Spring e PostgreSQL
   
   
   
@@ -10,6 +12,19 @@
   <a href="https://github.com/luisfelipe03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <div>
+
+  ### Tecnologias que eu uso:
+
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  
+
+</div>
+
+  # 
   
 
  
