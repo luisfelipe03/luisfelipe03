@@ -1,28 +1,17 @@
-```java
-package GitHub;
-
-public class Pessoa {
-	String nome;
-	int idade;
-	String formacao;
-	String desenvolvedor;
-
-}
-```
 
 ```java
 package GitHub;
 
-public class Dev {
+public class Apresentacao {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Pessoa dev = new Pessoa();
-		dev.nome = "Luis Felipe";
-		dev.idade = 18;
-		dev.formacao = "Ciência da Computação (2/8)";
-		dev.desenvolvedor = "Back-End";
-	}
+        String nome = "Luis Felipe";
+        int idade = 18;
+        String formacao = "Ciência da Computação (2/8)";
+        String desenvolvedor = "Back-End";
+        System.out.println("Bem vindo ao meu perfil!!!");
+    }
 
 }
 
