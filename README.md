@@ -1,25 +1,70 @@
-# Olá 👋, me chamo Felipe !
+```java
+package GitHub;
 
-## Sobre mim
-### 🎓 Cursando Ciência da computação
-### 💻 Programador Back-End 
-### 📚 Estudando Java/Spring e PostgreSQL
-  
-  
-  
+public class Dev {
+
+	public static void main(String[] args) {
+		
+		Pessoa dev = new Pessoa();
+		dev.setNome("Luis Felipe");
+		dev.setIdade(18);
+		dev.setFormacao("ciência da computação");
+		dev.setDesenvolvedor("Back-end");
+
+	}
+
+}
+```
+
+
+```java
+package GitHub;
+
+public class Pessoa {
+	  private String nome;
+    private int idade;
+    private String formacao;
+    private String desenvolvedor;
+	
+    public void setNome(String nome) {
+		this.nome = nome;
+	}
+	
+    public void setIdade(int idade) {
+		this.idade = idade;
+	}
+	
+    public void setFormacao(String formacao) {
+		this.formacao = formacao;
+	}
+	
+    public void setDesenvolvedor(String desenvolvedor) {
+		this.desenvolvedor = desenvolvedor;
+	}
+}
+```
+  #
+  ## TATISTICS
   
   <div>
   <a href="https://github.com/luisfelipe03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
 </div>
+  
+  #
   
   <div>
 
-  ### Tecnologias que eu uso:
+  ### HARD SKILLS
 
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 
 </div>
