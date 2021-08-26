@@ -30,7 +30,7 @@ public class Dev {
 
 #
  
- <h2><b>♦ STATISTICS ♦</b></h2>
+ <h2><b>📈 STATISTICS 📈</b></h2>
   
   <div>
   <a href="https://github.com/luisfelipe03">
@@ -42,7 +42,7 @@ public class Dev {
   
   <div>
 
- <h2><b>♦ HARD SKILLS ♦</b></h2>
+ <h2><b>📚 HARD SKILLS 📚</b></h2>
 
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> -
@@ -57,7 +57,7 @@ public class Dev {
 	
   #
 	
-  <h2 style="color:red" ><b>♦ IDE's | TOOL's | SO ♦ </b></h2>
+  <h2 style="color:red" ><b>💻 IDE's | TOOL's | SO 💻 </b></h2>
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"> -
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"> -
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"> -
@@ -67,6 +67,7 @@ public class Dev {
 	
 
   # 
+  <h2><b>📲 CONTACTS 📲</b></h2>
   <a href="https://www.linkedin.com/in/luis-felipe-contrate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: llipeandrade34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luis_felipe36/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
