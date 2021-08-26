@@ -2,15 +2,15 @@
 ```java
 package GitHub;
 
-public class Apresentacao {
+public class Welcome {
 
     public static void main(String[] args) {
 
-        String nome = "Luis Felipe";
-        int idade = 18;
-        String formacao = "Ciência da Computação (2/8)";
-        String desenvolvedor = "Back-End";
-        System.out.println("Bem vindo ao meu perfil!!!");
+        String name = "Luis Felipe";
+        int age = 18;
+        String studying = "Computer science (2/8)";
+        String DEV = "Back-End";
+        System.out.println("welcome to my profile!!!");
     }
 
 }
@@ -31,7 +31,7 @@ public class Apresentacao {
   
   <div>
 
- <h2><b>📚 HARD SKILLS 📚</b></h2>
+ <h2><b>📚 SKILLS 📚</b></h2>
 
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -
   <img align="center" alt="antonio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> -
