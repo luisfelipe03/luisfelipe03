@@ -64,7 +64,7 @@ public class Welcome {
   <a href="https://www.instagram.com/luis_felipe36/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_black"></a>
   
   
-   ![Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)
+   <!--![Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)-->
 
 
   
