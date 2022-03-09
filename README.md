@@ -17,7 +17,6 @@ public class Welcome {
 
 ```
 
-#
  
  <h2><b>📈 STATISTICS 📈</b></h2>
   
@@ -29,7 +28,6 @@ public class Welcome {
   
 </div>
   
-  #
   
   <div>
 
@@ -47,7 +45,6 @@ public class Welcome {
 
 </div>
 	
-  #
 	
   <h2 style="color:red" ><b>💻 IDE's | TOOL's | SO 💻 </b></h2>
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"> -
@@ -60,7 +57,6 @@ public class Welcome {
   
 	
 
-  # 
   <h2><b>📲 CONTACTS 📲</b></h2>
   <a href="https://www.linkedin.com/in/luis-felipe-contrate/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href = "mailto: llipeandrade34@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
