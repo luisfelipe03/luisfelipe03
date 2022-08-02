@@ -8,7 +8,7 @@ public class Welcome {
 
         String name = "Luis Felipe";
         int age = 18;
-        String studying = "Computer science (3/8)";
+        String studying = "Computer science (4/8)";
         String Dev = "Back-End";
         System.out.println("welcome to my profile!!!");
     }
