@@ -1,14 +1,12 @@
-```java
-package GitHub;
-public class Welcome {
-    public static void main(String[] args) {
-        String name = "Luis Felipe";
-        int age = 19;
-        String studying = "Computer science (1/9)";
-        String Dev = "Back-End";
-        System.out.println("welcome to my profile!!!");
-    }
-}
+```python
+class pessoal:
+    nome = 'Luis Felipe'
+    idade = 19
+    cursando = 'Ciência da computação (1/9)'
+    programado = 'web e cientista de dados'
+    
+print('Bem-vindo ao meu perfil')
+ 
 ```
 #
  <h2><b>📈 STATISTICS 📈</b></h2>
