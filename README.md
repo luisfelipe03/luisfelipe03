@@ -1,5 +1,5 @@
 ```python
-class pessoal:
+class dev:
     nome = 'Luis Felipe'
     idade = 19
     cursando = 'Ciência da computação (1/9)'
