@@ -13,7 +13,7 @@ print('Bem-vindo ao meu perfil')
   
   <div>
   <a href="https://github.com/luisfelipe03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfelipe03)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div>
