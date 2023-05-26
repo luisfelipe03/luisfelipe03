@@ -3,7 +3,7 @@ class dev:
     nome = 'Luis Felipe'
     idade = 19
     cursando = 'Ciência da computação (2/9)'
-    programador = 'web e cientista de dados'
+    programador = 'Cientista de dados'
     
 print('Bem-vindo ao meu perfil')
  
