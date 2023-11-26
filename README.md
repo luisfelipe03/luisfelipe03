@@ -4,8 +4,7 @@ public class Welcome {
     public static void main(String[] args) {
 
         String name = "Luis Felipe";
-        int age = 18;
-        int age = 19;
+        int age = 20;
         String studying = "Computer science (4/8)";
         String Dev = "Back-End";
         System.out.println("welcome to my profile!!!");
