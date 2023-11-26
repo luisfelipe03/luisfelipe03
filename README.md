@@ -42,4 +42,4 @@ public class Welcome {
   <!--<a href="https://wakatime.com/@luis_felipe36"><img height="40" width="40" src="https://wakatime.com/static/img/wakatime.svg"></a>-->
   
   
-   [Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)
