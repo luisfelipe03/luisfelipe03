@@ -39,7 +39,7 @@ public class Welcome {
   <a href="https://www.linkedin.com/in/luis-felipe-contrate/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href = "mailto: luis.felipea@ufape.edu.br"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
   <a href="https://www.instagram.com/luis_felipe36/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-  <!--<a href="https://wakatime.com/@luis_felipe36"><img height="40" width="40" src="https://wakatime.com/static/img/wakatime.svg"></a>
+  <!--<a href="https://wakatime.com/@luis_felipe36"><img height="40" width="40" src="https://wakatime.com/static/img/wakatime.svg"></a>-->
   
   
-   [Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)-->
+   [Snake animation](https://github.com/luisfelipe03/luisfelipe03/blob/output/github-contribution-grid-snake.svg)
