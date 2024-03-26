@@ -5,7 +5,7 @@ public class Welcome {
 
         String name = "Luis Felipe";
         int age = 20;
-        String studying = "Computer science (2/9)";
+        String studying = "Computer science";
         String Dev = "Back-End";
         System.out.println("welcome to my profile!!!");
     }
