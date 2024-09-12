@@ -27,7 +27,6 @@ public class Welcome {
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"> 
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"> 
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Felipe-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"> 
