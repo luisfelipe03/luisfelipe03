@@ -4,7 +4,7 @@ public class Welcome {
     public static void main(String[] args) {
 
         String name = "Luis Felipe";
-        int age = 21;
+        int age = 22;
         String studying = "Computer science";
         String Dev = "Back-End";
         System.out.println("welcome to my profile!!!");
@@ -24,7 +24,7 @@ public class Welcome {
   <div>
  <h2><b>📚 SKILLS 📚</b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nest,express,postgresql,mongodb,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,nest,spring,postgresql,mongodb,docker,aws)](https://skillicons.dev)
   
 </div>
   
